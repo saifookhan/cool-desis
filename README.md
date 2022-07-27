@@ -1,5 +1,5 @@
 # cool-desis
-A list of cool desis in tech. 
+A list of cool [desis](https://www.urbandictionary.com/define.php?term=desi) in tech. 
 
 Open a PR to add more or drop me a message on insta: [@saifooexplores](https://instagram.com/saifooexplores)
 
